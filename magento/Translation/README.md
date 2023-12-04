@@ -24,14 +24,19 @@ description - переводить translated_description, отображени�
 
 Итого 3: name_translated, short_description_translated,description_translated  - отображение через подмену в плагине
 
-title - название места в оригинале (не переводится!!!, нет кастомного у store view)
-subtitle - переводить translated_subtitle, отображается именно translated_subtitle
 
-schedule1 - переводить translated_schedule1
-schedule2 - переводить translated_schedule2
+subtitle_translated
+schedule1_translated
+schedule2_translated
+address_details_translated
+discount_translated
+
+title - название места в оригинале (не переводится!!!, нет кастомного у store view)
+subtitle - переводить subtitle_translated, отображается именно translated_subtitle
+
 
 address - не переводить (нет кастомных store view)
-address_details - уточнение - переводить translated_address_details например "рядом c Cikada Market"
+address_details - уточнение - переводить address_details_translated например "рядом c Cikada Market"
 
 facebook - не переводить
 instagramm - не переводить

@@ -12,7 +12,7 @@
         "address_details_translated":"(рядом с ...)",
         "google_maps":"https://maps.app.goo.gl/ozEoALXC3eS4mPhP7",
         "booking_required": true,
-        "amount": "$$",
+        "price_range": "$$",
         "discount": "30% DISCOUNT FOOD ONLY",
         "discount_translated": "30% СКИДКА ТОЛЬКО НА ЕДУ"
     },
