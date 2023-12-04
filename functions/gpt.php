@@ -68,7 +68,7 @@ function get_gpt_cachefile($system, $prompt, $model, $max_tokens, $temperature) 
     $cache_key = md5($cache_key1);
     
     // Путь к файлу кеша
-    $cache_dir = 'cache/gpt/';
+    $cache_dir = '/var/cache/portal/gpt/';
     $cache_file = $cache_dir . $cache_key . '.txt';
     return $cache_file;
 }

@@ -29,7 +29,7 @@ function translateTextGoogle($text, $targetLanguage) {
     $cache_key = md5($cache_key1);
     
     // Путь к файлу кеша
-    $cache_dir = 'cache/google/';
+    $cache_dir = '/var/cache/portal/google/';
     $cache_file = $cache_dir . $cache_key . '.txt';
 
     // Проверяем, существует ли закешированный файл
