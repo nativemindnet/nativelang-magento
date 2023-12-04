@@ -1,0 +1,69 @@
+{
+    "ru_RU":{
+        "title": "EAT AT SIVANA",
+        "subtitle": "INDIAN & THAI RESTAURANT",
+        "translated_subtitle" : "РЕСТОРАН ИНДИЙСКОЙ И ТАЙСКОЙ КУХНИ",
+        "schedule1": "INDIAN KITCHEN 11:00 AM",
+        "translated_schedule1" : "ИНДИЙСКАЯ КУХНЯ С 11:00",
+        "schedule2": "THAI KITCHEN 8:30 AM- 8:30 PM",
+        "translated_schedule2" : "ТАЙСКАЯ КУХНЯ 8:30-20:30",
+        "address":"Soi 126 Petchkasem Road",
+        "address_details":"(close to ...)",
+        "translated_address_details":"(рядом с ...)",
+        "google_maps":"https://maps.app.goo.gl/ozEoALXC3eS4mPhP7",
+        "booking_required": true,
+        "amount": "$$",
+        "discount": "30% DISCOUNT FOOD ONLY",
+        "translated_discount": "30% СКИДКА ТОЛЬКО НА ЕДУ"
+    },
+
+    "th_TH":{}
+
+    "en_US":{
+        "title": "EAT AT SIVANA",
+        "subtitle": "INDIAN & THAI RESTAURANT",
+        "schedule1": "INDIAN KITCHEN 11:00 AM",
+        "schedule2": "THAI KITCHEN 8:30 AM- 8:30 PM",
+        "address":"Soi 126 Petchkasem Road",
+        "address_details":"(close to ...)",
+        "google_maps":"https://maps.app.goo.gl/ozEoALXC3eS4mPhP7",
+        "phone":"032-900-291 / 099-434-3839",
+        "facebook":"Eatasivana",
+        "short_description":"Discover Eat At Sivana, located soi 126 in the heart of Sivana gardens and we can say, it's worth a visit. The restaurant offers a modern and cosy poolside seating. Enjoy Indian and Thai specialties to your taste. Excellent value for money.",
+        "description":
+    "- Discount before tax and service charge if applicable
+    
+    - Available for 1 to 6 people
+    
+    - Offer available for a la carte only
+    
+    - 1 paying drink mandatory per person (except water & coffee)
+    
+    -Offer cannot be combined with any discounts or on going promotions.                                                                                                                                       
+    
+
+}	
+
+
+PAGE
+
+	SKU [ NAME]	TITLE	SUBTITLE	SCHEDULE	SCHEDULE2	ADDRESS	GOOGLE LOCATION	PHONE	FACEBOOK	INSTAGRAM	WEBSITE	Short Description	Description	BOOKING REQUIRED	AMOUNT	DISCOUINT			3 PICTURES
+
+
+
+	
+14	SUNDANCE DAYCLUB	SUNDANCE DAYCLUB	BEACH CLUB	OPEN EVERYDAY 	`12:00 PM-10:00 PM	Soi 35, Hua Hin	https://maps.app.goo.gl/krs6nMMmYQWnMpA1A	092-950-9699	sundancedayclub		sundancedayclub.com	No.1 Beach Club in Hua Hin! The perfect destination to sip, dip, dine and stay! Complete with all the trappings expected of a glamorous lifestyle, an exclusive social environment to enjoy with the finest company, a place to chill out every weekend, and an unmatched food and beverage service.	"Eligible Monday to Friday
+
+-Discount before tax and service charge if applicable
+
+-Available for 1 to 6 people
+
+-Offer available for all food menu
+
+-1 paying drink mandatory per person (except water & coffee)
+
+-One stamp per day 
+
+-Offer cannot be combined with any other discounts or promotions. 
+
+-Offer not available for special events and dates"	x	$$$	-30% RESTAURANT [SUNRISE] SEATING DISCOUNT FOOD ONLY                                                                                                            -500 THB DAYCLUB [SUNSET] SEATING CASH VOUCHER          

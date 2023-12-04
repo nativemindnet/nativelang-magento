@@ -7,18 +7,42 @@
 Если use_default_value у translated_title==false, то значит уже переведено
 force_translated - флаг запускать ли перевод повторно
 
+Отображение в приоритете до первого сработавшего:
+1. Если существует заданное с use_default_value!=false, то отображается именно оно
+2. Если существует перевод, то отображается именно он (перевод делается всегда именно от оригинальноно у website, не от кастомного storeview)
+3. Отображается оригинал website_view
+
 ??? Переводчик отталкивается от title в конкретном store_view ???
 
-Дополнения наподобие address, schedule,...
+Список аттрибутов:
 
-name
-description
-subtitle?
+Product Name -либо название место либо "Приходите в НАЗВАНИЕ МЕСТА" либо "Скидка в " (translated_name=Translated Product Name), отображение через подмену в плагине
+short_description - переводить translated_short_description, отображение через подмену в плагине
+description - переводить translated_description, отображение через подмену в плагине
 
-address - не переводить (хотя например "рядом c Cikada Market")
+
+title - название места в оригинале (не переводится!!!, нет кастомного у store view)
+subtitle - переводить translated_subtitle, отображается именно translated_subtitle
+
+schedule1 - переводить translated_schedule1
+schedule2 - переводить translated_schedule2
+
+address - не переводить (нет кастомных store view)
+address_details - уточнение - переводить translated_address_details например "рядом c Cikada Market"
 
 facebook - не переводить
 instagramm - не переводить
+
+
+
+
+
+example page 30
+пример - смотри example_translation.json
+
+                                                                                                                       			
+
+
 
 
 
