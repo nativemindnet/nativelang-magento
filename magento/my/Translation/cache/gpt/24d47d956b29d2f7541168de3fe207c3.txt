@@ -1,0 +1,23 @@
+<h1>Salon / Brijačnica</h1>
+
+<p>Dobrodošli u naš salon / brijačnicu! Ovdje ćete pronaći najnovije akcije i posebne ponude na naše usluge. Bez obzira na to da li vam je potreban frizerski tretman, manikir ili masaža, mi vam nudimo vrhunsku uslugu uz povoljne cijene.</p>
+
+<h2>Naša ponuda</h2>
+
+<p>U našem salonu / brijačnici nudimo širok spektar usluga koje će vas osvježiti i opustiti. Bilo da želite promijeniti frizuru, oblikovati obrve ili se opustiti uz masažu, naše stručno osoblje je tu da vam pruži vrhunsko iskustvo.</p>
+
+<p>Naši frizeri su stručnjaci u svom poslu i uvijek su u toku sa najnovijim trendovima. Bez obzira da li želite klasičnu frizuru, modernu frizuru ili nešto potpuno drugačije, naši frizeri će vam pomoći da pronađete stil koji vam savršeno odgovara.</p>
+
+<p>Ako ste ljubitelj manikira, naši manikeri će se pobrinuti da vaše nokte izgledaju besprijekorno. Nudimo širok izbor boja i dezena, tako da možete izabrati onaj koji najbolje odgovara vašem stilu.</p>
+
+<p>Za sve one koji žele se opustiti i osloboditi stresa, nudimo različite vrste masaža. Naši maseri su obučeni da pruže terapijske i relaksirajuće masaže koje će vam pomoći da se osjećate sjajno. Bilo da želite klasičnu masažu, masažu aromaterapije ili masažu toplim kamenjem, mi imamo sve što vam je potrebno za potpunu relaksaciju.</p>
+
+<h2>Posebne ponude</h2>
+
+<p>U našem salonu / brijačnici redovno imamo posebne ponude i akcije za naše klijente. Pratite našu web stranicu ili nas pratite na društvenim mrežama kako biste bili u toku sa najnovijim ponudama. Možete uštedjeti novac na našim uslugama i istovremeno dobiti vrhunsku njegu i opuštanje.</p>
+
+<p>Ne propustite naše sezonske akcije i praznične ponude. Bilo da je to popust na frizuru, besplatan manikir ili dodatna masaža, mi se trudimo da vam pružimo najbolje moguće ponude kako biste se osjećali posebno i razmazeno.</p>
+
+<h2>Zaključak</h2>
+
+<p>Ako želite izgledati i osjećati se sjajno, posjetite naš salon / brijačnicu. Naše stručno osoblje će se pobrinuti da dobijete vrhunsku uslugu po povoljnim cijenama. Nemojte propustiti naše posebne ponude i akcije. Vaše zadovoljstvo nam je najvažnije!</p>

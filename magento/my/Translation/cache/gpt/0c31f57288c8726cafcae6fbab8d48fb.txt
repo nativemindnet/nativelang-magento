@@ -1,0 +1,27 @@
+<h1>Salon / Kapperszaak</h1>
+
+<p>Welkom bij onze salon / kapperszaak! Wij bieden een breed scala aan diensten en speciale aanbiedingen om ervoor te zorgen dat u er op uw best uitziet en zich goed voelt. Of u nu een nieuwe look wilt uitproberen, uw haar wilt laten knippen of kleuren, of gewoon wilt ontspannen en genieten van een verwenbehandeling, wij hebben alles wat u nodig heeft.</p>
+
+<h2>Onze diensten</h2>
+
+<p>Onze salon / kapperszaak biedt een uitgebreid scala aan diensten om aan al uw haarbehoeften te voldoen. Onze ervaren kappers en stylisten staan klaar om u te helpen de perfecte look te creëren. Enkele van onze diensten zijn:</p>
+
+<ul>
+  <li>Knippen en stylen: Of u nu uw haar wilt laten knippen in een trendy snit of een klassieke stijl wilt behouden, onze kappers zijn experts in het creëren van de perfecte look voor u.</li>
+  <li>Kleuren en highlights: Of u nu uw haar wilt laten verven in een volledig nieuwe kleur of enkele subtiele highlights wilt toevoegen, wij hebben de juiste kleurtechnieken om aan uw wensen te voldoen.</li>
+  <li>Haarbehandelingen: Verwen uw haar met een voedende behandeling om het te herstellen en te versterken. Van hydraterende maskers tot diepe conditioners, wij bieden verschillende behandelingen om uw haar er op zijn best uit te laten zien en aan te voelen.</li>
+  <li>Styling voor speciale gelegenheden: Of u nu een bruiloft, gala of ander speciaal evenement heeft, onze stylisten kunnen u helpen om de perfecte look te creëren die past bij de gelegenheid.</li>
+</ul>
+
+<h2>Speciale aanbiedingen</h2>
+
+<p>Naast onze reguliere diensten bieden wij ook speciale aanbiedingen om uw bezoek aan onze salon / kapperszaak nog aangenamer te maken. Hier zijn enkele van onze actuele aanbiedingen:</p>
+
+<ul>
+  <li>Kennismakingskorting: Als nieuwe klant ontvangt u 20% korting op uw eerste bezoek aan onze salon.</li>
+  <li>Gratis behandeling: Boek een knipbeurt en ontvang een gratis haarbehandeling naar keuze.</li>
+  <li>Verwijzingskorting: Verwijs een vriend naar onze salon en ontvang beide 10% korting op uw volgende afspraak.</li>
+  <li>Seizoenskorting: Profiteer van speciale kortingen op geselecteerde diensten tijdens bepaalde seizoenen.</li>
+</ul>
+
+<p>Neem contact met ons op om een afspraak te maken of om meer te weten te komen over onze diensten en speciale aanbiedingen. Onze vriendelijke medewerkers staan klaar om u te helpen en ervoor te zorgen dat u een geweldige ervaring heeft in onze salon / kapperszaak. We hopen u binnenkort te verwelkomen!</p>

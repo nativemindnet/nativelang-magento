@@ -1,0 +1,19 @@
+<h1>Salão / Barbearia</h1>
+
+<p>Se você está procurando um salão ou barbearia que ofereça serviços de alta qualidade e preços acessíveis, você veio ao lugar certo! Nossa equipe de profissionais altamente treinados e experientes está pronta para cuidar do seu visual e deixá-lo com uma aparência impecável.</p>
+
+<h2>Serviços oferecidos</h2>
+
+<p>Nossos salões e barbearias oferecem uma ampla gama de serviços para atender às suas necessidades. Desde cortes de cabelo clássicos e modernos até serviços de barbearia tradicionais, temos tudo o que você precisa para se sentir e parecer bem. Além disso, também oferecemos serviços de coloração de cabelo, tratamentos capilares, manicure e pedicure, depilação e muito mais.</p>
+
+<p>Com nossos serviços personalizados, garantimos que você saia do nosso salão ou barbearia satisfeito com o resultado. Nossos profissionais estão sempre atualizados com as últimas tendências e técnicas para garantir que você receba um serviço de alta qualidade.</p>
+
+<h2>Profissionais especializados</h2>
+
+<p>Nossa equipe de profissionais é composta por cabeleireiros e barbeiros altamente qualificados e experientes. Eles estão sempre prontos para ouvir suas necessidades e oferecer conselhos especializados para ajudá-lo a alcançar o visual desejado. Nossos profissionais são dedicados e apaixonados pelo que fazem, e eles se esforçam para proporcionar uma experiência excepcional a cada cliente.</p>
+
+<h2>Promoções especiais</h2>
+
+<p>Além dos nossos serviços de alta qualidade, também oferecemos promoções especiais para tornar sua visita ainda mais agradável. Fique de olho em nossas ofertas exclusivas, descontos em pacotes de serviços e promoções sazonais.</p>
+
+<p>Não perca a chance de desfrutar de serviços de qualidade a preços acessíveis. Agende seu horário hoje mesmo e venha nos visitar. Estamos ansiosos para cuidar de você e deixá-lo com uma aparência incrível!</p>
