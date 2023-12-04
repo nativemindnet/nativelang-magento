@@ -29,4 +29,4 @@ include("functions/createGPT.php");
 
 
 
-translateProducts(10);
+translateProducts(10,false,true);
