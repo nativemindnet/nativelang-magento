@@ -2,19 +2,19 @@
     "ru_RU":{
         "title": "EAT AT SIVANA",
         "subtitle": "INDIAN & THAI RESTAURANT",
-        "translated_subtitle" : "РЕСТОРАН ИНДИЙСКОЙ И ТАЙСКОЙ КУХНИ",
+        "subtitle_translated" : "РЕСТОРАН ИНДИЙСКОЙ И ТАЙСКОЙ КУХНИ",
         "schedule1": "INDIAN KITCHEN 11:00 AM",
-        "translated_schedule1" : "ИНДИЙСКАЯ КУХНЯ С 11:00",
+        "schedule1_translated" : "ИНДИЙСКАЯ КУХНЯ С 11:00",
         "schedule2": "THAI KITCHEN 8:30 AM- 8:30 PM",
-        "translated_schedule2" : "ТАЙСКАЯ КУХНЯ 8:30-20:30",
+        "schedule2_translated" : "ТАЙСКАЯ КУХНЯ 8:30-20:30",
         "address":"Soi 126 Petchkasem Road",
         "address_details":"(close to ...)",
-        "translated_address_details":"(рядом с ...)",
+        "address_details_translated":"(рядом с ...)",
         "google_maps":"https://maps.app.goo.gl/ozEoALXC3eS4mPhP7",
         "booking_required": true,
         "amount": "$$",
         "discount": "30% DISCOUNT FOOD ONLY",
-        "translated_discount": "30% СКИДКА ТОЛЬКО НА ЕДУ"
+        "discount_translated": "30% СКИДКА ТОЛЬКО НА ЕДУ"
     },
 
     "th_TH":{}
