@@ -2088,3 +2088,101 @@ Array
     [discount_translated] => 
     [address_details_translated] => 
 )
+productId=57
+productId=57
+websiteName=Body Scrub + Mask
+websiteDescription=
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => <p>A body scrub + mask is a luxurious skincare product that combines the exfoliating benefits of a scrub with the nourishing qualities of a mask. It gently removes dead skin cells, leaving your skin soft, smooth, and rejuvenated while also providing deep hydration and a refreshing glow.</p>
+    [description_translated] => 
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+    [phone] => 
+    [facebook] => 
+    [instagram] => 
+    [website] => 
+    [google_maps_url] => 
+    [booking_required] => 
+    [price_range] => 
+)
+storeId=4
+locale=th_TH
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>สครับผิว + มาส์กเป็นผลิตภัณฑ์ดูแลผิวสุดหรูที่ผสมผสานคุณประโยชน์ในการขัดผิวของการขัดผิวเข้ากับคุณสมบัติในการบำรุงของมาส์ก ช่วยขจัดเซลล์ผิวที่ตายแล้วออกอย่างอ่อนโยน ทำให้ผิวของคุณนุ่ม เรียบเนียน และอ่อนเยาว์ ในขณะเดียวกันก็ให้ความชุ่มชื้นอย่างล้ำลึกและเปล่งประกายสดชื่น</p>
+from cache:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;หัวหิน&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>สครับผิว + มาส์กเป็นผลิตภัณฑ์ดูแลผิวสุดหรูที่ผสมผสานคุณประโยชน์ในการขัดผิวของการขัดผิวเข้ากับคุณสมบัติในการบำรุงของมาส์ก ช่วยขจัดเซลล์ผิวที่ตายแล้วออกอย่างอ่อนโยน ทำให้ผิวของคุณนุ่ม เรียบเนียน และอ่อนเยาว์ ในขณะเดียวกันก็ให้ความชุ่มชื้นอย่างล้ำลึกและเปล่งประกายสดชื่น</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => หัวหิน
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=1
+locale=en_US
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>A body scrub + mask is a luxurious skincare product that combines the exfoliating benefits of a scrub with the nourishing qualities of a mask. It gently removes dead skin cells, leaving your skin soft, smooth, and rejuvenated while also providing deep hydration and a refreshing glow.</p>
+from cache:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>A body scrub + mask is a luxurious skincare product that combines the exfoliating benefits of a scrub with the nourishing qualities of a mask. It gently removes dead skin cells, leaving your skin soft, smooth, and rejuvenated while also providing deep hydration and a refreshing glow.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
