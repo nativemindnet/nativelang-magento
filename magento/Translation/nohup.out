@@ -1,0 +1,2090 @@
+productId=55
+productId=55
+websiteName=Deep Thai Massage With Balm
+websiteDescription=
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => <p>Deep Thai Massage with Balm is a rejuvenating and therapeutic bodywork technique that combines traditional Thai massage with the soothing application of aromatic balms. This unique blend of deep tissue massage and herbal balms promotes relaxation, releases muscle tension, and enhances overall well-being, leaving you feeling revitalized and refreshed.</p>
+    [description_translated] => 
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+    [phone] => 
+    [facebook] => 
+    [instagram] => 
+    [website] => 
+    [google_maps_url] => 
+    [booking_required] => 0
+    [price_range] => 
+)
+storeId=4
+locale=th_TH
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+from cache:<p>การนวดแผนไทยแบบล้ำลึกด้วยบาล์มเป็นเทคนิคการออกกำลังกายเพื่อการฟื้นฟูและบำบัดที่ผสมผสานการนวดแผนไทยเข้ากับการใช้บาล์มอโรมาเพื่อผ่อนคลาย การผสมผสานการนวดเนื้อเยื่อส่วนลึกและบาล์มสมุนไพรที่เป็นเอกลักษณ์นี้ จะช่วยผ่อนคลาย คลายความตึงเครียดของกล้ามเนื้อ และช่วยเพิ่มความเป็นอยู่ที่ดีโดยรวม ทำให้คุณรู้สึกสดชื่นและสดชื่น</p>translation=[&quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;หัวหิน&quot;, &quot;&quot;, &quot;&quot;, &quot;0&quot;, &quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>การนวดแผนไทยแบบล้ำลึกด้วยบาล์มเป็นเทคนิคการออกกำลังกายเพื่อการฟื้นฟูและบำบัดที่ผสมผสานการนวดแผนไทยเข้ากับการใช้บาล์มอโรมาเพื่อผ่อนคลาย การผสมผสานการนวดเนื้อเยื่อส่วนลึกและบาล์มสมุนไพรที่เป็นเอกลักษณ์นี้ จะช่วยผ่อนคลาย คลายความตึงเครียดของกล้ามเนื้อ และช่วยเพิ่มความเป็นอยู่ที่ดีโดยรวม ทำให้คุณรู้สึกสดชื่นและสดชื่น</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => หัวหิน
+    [discount_translated] => 
+    [city] => 
+    [address] => 0
+    [address_details_translated] => 
+)
+storeId=1
+locale=en_US
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+from cache:<p>Deep Thai Massage with Balm is a rejuvenating and therapeutic bodywork technique that combines traditional Thai massage with the soothing application of aromatic balms. This unique blend of deep tissue massage and herbal balms promotes relaxation, releases muscle tension, and enhances overall well-being, leaving you feeling revitalized and refreshed.</p>translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Deep Thai Massage with Balm is a rejuvenating and therapeutic bodywork technique that combines traditional Thai massage with the soothing application of aromatic balms. This unique blend of deep tissue massage and herbal balms promotes relaxation, releases muscle tension, and enhances overall well-being, leaving you feeling revitalized and refreshed.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=5
+locale=zh_Hans_CN
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+from cache:<p>香膏深层泰式按摩是一种恢复活力和治疗身体的技术，将传统泰式按摩与芳香香膏的舒缓应用相结合。这种深层组织按摩和草药膏的独特组合可促进放松、释放肌肉紧张并增强整体健康，让您感觉焕发活力、神清气爽。</p>translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;华欣&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>香膏深层泰式按摩是一种恢复活力和治疗身体的技术，将传统泰式按摩与芳香香膏的舒缓应用相结合。这种深层组织按摩和草药膏的独特组合可促进放松、释放肌肉紧张并增强整体健康，让您感觉焕发活力、神清气爽。</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => 华欣
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=48
+locale=sq_AL
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Masazhi i thellë Thai me Balsam është një teknikë rinovuese dhe terapeutike e trupit që kombinon masazhin tradicional tajlandez me aplikimin qetësues të balsameve aromatike. Kjo përzierje unike e masazhit të indeve të thella dhe balsameve bimore nxit relaksimin, çliron tensionin e muskujve dhe përmirëson mirëqenien e përgjithshme, duke ju lënë të ndiheni të rigjallëruar dhe të rifreskuar.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;, &quot;&quot;,&quot;&quot;, &quot;Hua Hin&quot;, &quot;&quot;,&quot;&quot;,&quot;&quot;, &quot;0&quot;, &quot;&quot;&quot;]
+PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+
+Warning: count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+array translate != OK
+Array
+(
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Masazhi i thellë Thai me Balsam është një teknikë rinovuese dhe terapeutike e trupit që kombinon masazhin tradicional tajlandez me aplikimin qetësues të balsameve aromatike. Kjo përzierje unike e masazhit të indeve të thella dhe balsameve bimore nxit relaksimin, çliron tensionin e muskujve dhe përmirëson mirëqenien e përgjithshme, duke ju lënë të ndiheni të rigjallëruar dhe të rifreskuar.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [address_details_translated] => 
+)
+storeId=45
+locale=ar_KW
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p style=";text-align:right;direction:rtl">التدليك التايلاندي العميق مع البلسم هو تقنية تجديد وعلاجية للجسم تجمع بين التدليك التايلاندي التقليدي مع الاستخدام المهدئ للبلسم العطري. يعزز هذا المزيج الفريد من تدليك الأنسجة العميقة والبلسمات العشبية الاسترخاء، ويخفف من توتر العضلات، ويعزز الصحة العامة، مما يجعلك تشعر بالنشاط والانتعاش.</p>
+translation=[&quot;&quot;،&quot;،&quot;،&quot;،&quot;،، هوا هين&quot;،&quot;،&quot;،&quot;،&quot;،0&quot;،&quot;]
+PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+
+Warning: count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+array translate != OK
+Array
+(
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p style=";text-align:right;direction:rtl">التدليك التايلاندي العميق مع البلسم هو تقنية تجديد وعلاجية للجسم تجمع بين التدليك التايلاندي التقليدي مع الاستخدام المهدئ للبلسم العطري. يعزز هذا المزيج الفريد من تدليك الأنسجة العميقة والبلسمات العشبية الاسترخاء، ويخفف من توتر العضلات، ويعزز الصحة العامة، مما يجعلك تشعر بالنشاط والانتعاش.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [address_details_translated] => 
+)
+storeId=50
+locale=bn_IN
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>বালমের সাথে ডিপ থাই ম্যাসেজ হল একটি পুনরুজ্জীবিত এবং থেরাপিউটিক বডিওয়ার্ক কৌশল যা ঐতিহ্যবাহী থাই ম্যাসেজকে সুগন্ধযুক্ত বামের প্রশান্তিদায়ক প্রয়োগের সাথে একত্রিত করে। গভীর টিস্যু ম্যাসাজ এবং ভেষজ বামগুলির এই অনন্য মিশ্রণটি শিথিলতাকে উত্সাহ দেয়, পেশীর টান ছেড়ে দেয় এবং সামগ্রিক সুস্থতা বাড়ায়, আপনাকে পুনরুজ্জীবিত এবং সতেজ বোধ করে।</p>
+translation=[&quot;&quot;,&quot;&quot;&quot;,&quot;&quot;&quot;,&quot;&quot;হুয়া হিন&quot;,&quot;&quot;&quot;,&quot;&quot;&quot;0&quot;,&quot;&quot;]
+PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+
+Warning: count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+array translate != OK
+Array
+(
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>বালমের সাথে ডিপ থাই ম্যাসেজ হল একটি পুনরুজ্জীবিত এবং থেরাপিউটিক বডিওয়ার্ক কৌশল যা ঐতিহ্যবাহী থাই ম্যাসেজকে সুগন্ধযুক্ত বামের প্রশান্তিদায়ক প্রয়োগের সাথে একত্রিত করে। গভীর টিস্যু ম্যাসাজ এবং ভেষজ বামগুলির এই অনন্য মিশ্রণটি শিথিলতাকে উত্সাহ দেয়, পেশীর টান ছেড়ে দেয় এবং সামগ্রিক সুস্থতা বাড়ায়, আপনাকে পুনরুজ্জীবিত এবং সতেজ বোধ করে।</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [address_details_translated] => 
+)
+storeId=47
+locale=bs_Latn_BA
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Duboka tajlandska masaža sa balzamom je pomlađujuća i terapeutska tehnika rada na tijelu koja kombinira tradicionalnu tajlandsku masažu sa umirujućom primjenom aromatičnih balzama. Ova jedinstvena mješavina duboke masaže tkiva i biljnih balzama potiče opuštanje, oslobađa napetost mišića i poboljšava cjelokupno blagostanje, ostavljajući vam osjećaj revitalizacije i osvježenja.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Duboka tajlandska masaža sa balzamom je pomlađujuća i terapeutska tehnika rada na tijelu koja kombinira tradicionalnu tajlandsku masažu sa umirujućom primjenom aromatičnih balzama. Ova jedinstvena mješavina duboke masaže tkiva i biljnih balzama potiče opuštanje, oslobađa napetost mišića i poboljšava cjelokupno blagostanje, ostavljajući vam osjećaj revitalizacije i osvježenja.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=55
+locale=da_DK
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Deep Thai Massage with Balm er en foryngende og terapeutisk kropsteknik, der kombinerer traditionel thaimassage med den beroligende påføring af aromatiske balsamer. Denne unikke blanding af dybvævsmassage og urtebalsam fremmer afslapning, frigør muskelspændinger og forbedrer det generelle velvære, så du føler dig genoplivet og forfrisket.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Deep Thai Massage with Balm er en foryngende og terapeutisk kropsteknik, der kombinerer traditionel thaimassage med den beroligende påføring af aromatiske balsamer. Denne unikke blanding af dybvævsmassage og urtebalsam fremmer afslapning, frigør muskelspændinger og forbedrer det generelle velvære, så du føler dig genoplivet og forfrisket.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=37
+locale=nl_NL
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Deep Thai Massage met Balsem is een verjongende en therapeutische lichaamswerktechniek die traditionele Thaise massage combineert met de rustgevende toepassing van aromatische balsems. Deze unieke mix van diepe weefselmassage en kruidenbalsems bevordert ontspanning, laat spierspanning los en verbetert het algehele welzijn, waardoor u zich gerevitaliseerd en verfrist voelt.</p>
+translation=[&quot;&quot;,&quot;&quot;, &quot;&quot;,&quot;&quot;, &quot;Hua Hin&quot;, &quot;&quot;, &quot;&quot;, &quot;0&quot;, &quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Deep Thai Massage met Balsem is een verjongende en therapeutische lichaamswerktechniek die traditionele Thaise massage combineert met de rustgevende toepassing van aromatische balsems. Deze unieke mix van diepe weefselmassage en kruidenbalsems bevordert ontspanning, laat spierspanning los en verbetert het algehele welzijn, waardoor u zich gerevitaliseerd en verfrist voelt.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => Hua Hin
+    [city] => 
+    [address] => 
+    [address_details_translated] => 0
+)
+storeId=36
+locale=fi_FI
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Deep Thai Massage with Balm on virkistävä ja terapeuttinen vartalotekniikka, jossa yhdistyvät perinteinen thai-hieronta ja aromaattisten balsamien rauhoittava käyttö. Tämä ainutlaatuinen syväkudoshieronnan ja yrttibalsamien yhdistelmä edistää rentoutumista, vapauttaa lihasjännitystä ja parantaa yleistä hyvinvointia jättäen olosi virkeäksi ja virkistyneeksi.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Deep Thai Massage with Balm on virkistävä ja terapeuttinen vartalotekniikka, jossa yhdistyvät perinteinen thai-hieronta ja aromaattisten balsamien rauhoittava käyttö. Tämä ainutlaatuinen syväkudoshieronnan ja yrttibalsamien yhdistelmä edistää rentoutumista, vapauttaa lihasjännitystä ja parantaa yleistä hyvinvointia jättäen olosi virkeäksi ja virkistyneeksi.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=13
+locale=fr_FR
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Le Massage Thaï Profond avec Baume est une technique de travail corporel rajeunissante et thérapeutique qui combine le massage thaïlandais traditionnel avec l&#39;application apaisante de baumes aromatiques. Ce mélange unique de massage des tissus profonds et de baumes aux herbes favorise la relaxation, libère les tensions musculaires et améliore le bien-être général, vous laissant revitalisé et rafraîchi.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Le Massage Thaï Profond avec Baume est une technique de travail corporel rajeunissante et thérapeutique qui combine le massage thaïlandais traditionnel avec l&#39;application apaisante de baumes aromatiques. Ce mélange unique de massage des tissus profonds et de baumes aux herbes favorise la relaxation, libère les tensions musculaires et améliore le bien-être général, vous laissant revitalisé et rafraîchi.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=26
+locale=de_DE
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Die Deep Thai Massage mit Balsam ist eine verjüngende und therapeutische Körperarbeitstechnik, die traditionelle Thai-Massage mit der beruhigenden Anwendung aromatischer Balsame kombiniert. Diese einzigartige Mischung aus Tiefengewebsmassage und Kräuterbalsam fördert die Entspannung, löst Muskelverspannungen und steigert das allgemeine Wohlbefinden, sodass Sie sich revitalisiert und erfrischt fühlen.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Die Deep Thai Massage mit Balsam ist eine verjüngende und therapeutische Körperarbeitstechnik, die traditionelle Thai-Massage mit der beruhigenden Anwendung aromatischer Balsame kombiniert. Diese einzigartige Mischung aus Tiefengewebsmassage und Kräuterbalsam fördert die Entspannung, löst Muskelverspannungen und steigert das allgemeine Wohlbefinden, sodass Sie sich revitalisiert und erfrischt fühlen.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=57
+locale=he_IL
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p style=";text-align:right;direction:rtl">עיסוי תאילנדי עמוק עם מזור הוא טכניקת עבודת גוף מרעננת וטיפולית המשלבת עיסוי תאילנדי מסורתי עם מריחה מרגיעה של מזור ארומטי. התערובת הייחודית הזו של עיסוי רקמות עמוק וצמחי מרפא מקדמת הרפיה, משחררת מתח שרירים ומשפרת את הרווחה הכללית, ומותירה אותך מחודשת ורענון.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p style=";text-align:right;direction:rtl">עיסוי תאילנדי עמוק עם מזור הוא טכניקת עבודת גוף מרעננת וטיפולית המשלבת עיסוי תאילנדי מסורתי עם מריחה מרגיעה של מזור ארומטי. התערובת הייחודית הזו של עיסוי רקמות עמוק וצמחי מרפא מקדמת הרפיה, משחררת מתח שרירים ומשפרת את הרווחה הכללית, ומותירה אותך מחודשת ורענון.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=25
+locale=hi_IN
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>बाम के साथ डीप थाई मसाज एक कायाकल्प और चिकित्सीय बॉडीवर्क तकनीक है जो पारंपरिक थाई मसाज को सुगंधित बाम के सुखदायक अनुप्रयोग के साथ जोड़ती है। डीप टिश्यू मसाज और हर्बल बाम का यह अनूठा मिश्रण विश्राम को बढ़ावा देता है, मांसपेशियों के तनाव को दूर करता है और समग्र स्वास्थ्य को बढ़ाता है, जिससे आप पुनर्जीवित और तरोताजा महसूस करते हैं।</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>बाम के साथ डीप थाई मसाज एक कायाकल्प और चिकित्सीय बॉडीवर्क तकनीक है जो पारंपरिक थाई मसाज को सुगंधित बाम के सुखदायक अनुप्रयोग के साथ जोड़ती है। डीप टिश्यू मसाज और हर्बल बाम का यह अनूठा मिश्रण विश्राम को बढ़ावा देता है, मांसपेशियों के तनाव को दूर करता है और समग्र स्वास्थ्य को बढ़ाता है, जिससे आप पुनर्जीवित और तरोताजा महसूस करते हैं।</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=52
+locale=id_ID
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Deep Thai Massage with Balm adalah teknik bodywork yang meremajakan dan terapeutik yang menggabungkan pijat tradisional Thailand dengan pengaplikasian balsem aromatik yang menenangkan. Perpaduan unik antara pijat jaringan dalam dan balsem herbal ini meningkatkan relaksasi, melepaskan ketegangan otot, dan meningkatkan kesejahteraan secara keseluruhan, membuat Anda merasa segar dan segar.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Deep Thai Massage with Balm adalah teknik bodywork yang meremajakan dan terapeutik yang menggabungkan pijat tradisional Thailand dengan pengaplikasian balsem aromatik yang menenangkan. Perpaduan unik antara pijat jaringan dalam dan balsem herbal ini meningkatkan relaksasi, melepaskan ketegangan otot, dan meningkatkan kesejahteraan secara keseluruhan, membuat Anda merasa segar dan segar.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=40
+locale=it_IT
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Il massaggio tailandese profondo con balsamo è una tecnica di lavoro corporeo rigenerante e terapeutica che combina il tradizionale massaggio tailandese con l&#39;applicazione lenitiva di balsami aromatici. Questa miscela unica di massaggio dei tessuti profondi e balsami alle erbe favorisce il rilassamento, scioglie la tensione muscolare e migliora il benessere generale, lasciandoti rivitalizzato e rinfrescato.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Il massaggio tailandese profondo con balsamo è una tecnica di lavoro corporeo rigenerante e terapeutica che combina il tradizionale massaggio tailandese con l&#39;applicazione lenitiva di balsami aromatici. Questa miscela unica di massaggio dei tessuti profondi e balsami alle erbe favorisce il rilassamento, scioglie la tensione muscolare e migliora il benessere generale, lasciandoti rivitalizzato e rinfrescato.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=41
+locale=ja_JP
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>ディープ タイ マッサージ ウィズ バームは、伝統的なタイ式マッサージと心地よい香りのバームを組み合わせた、若返り効果のあるセラピー ボディワーク テクニックです。深部組織マッサージとハーブバームのこのユニークなブレンドは、リラクゼーションを促進し、筋肉の緊張を解放し、全体的な幸福感を高め、活力とリフレッシュを感じさせます。</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;ホアヒン&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>ディープ タイ マッサージ ウィズ バームは、伝統的なタイ式マッサージと心地よい香りのバームを組み合わせた、若返り効果のあるセラピー ボディワーク テクニックです。深部組織マッサージとハーブバームのこのユニークなブレンドは、リラクゼーションを促進し、筋肉の緊張を解放し、全体的な幸福感を高め、活力とリフレッシュを感じさせます。</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => ホアヒン
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=7
+locale=ko_KR
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>밤을 이용한 딥 타이 마사지는 전통 태국 마사지와 아로마 밤의 진정 적용을 결합한 활력을 되찾고 치료하는 신체 기술입니다. 심부 조직 마사지와 허브 밤의 독특한 조합은 휴식을 촉진하고 근육 긴장을 풀어주며 전반적인 웰빙을 향상시켜 활력과 상쾌함을 느끼게 해줍니다.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;후아힌&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>밤을 이용한 딥 타이 마사지는 전통 태국 마사지와 아로마 밤의 진정 적용을 결합한 활력을 되찾고 치료하는 신체 기술입니다. 심부 조직 마사지와 허브 밤의 독특한 조합은 휴식을 촉진하고 근육 긴장을 풀어주며 전반적인 웰빙을 향상시켜 활력과 상쾌함을 느끼게 해줍니다.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => 후아힌
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=51
+locale=ms_MY
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Deep Thai Massage with Balm ialah teknik badan yang meremajakan dan terapeutik yang menggabungkan urutan tradisional Thai dengan sapuan balm aromatik yang menenangkan. Campuran unik urutan tisu dalam dan balm herba ini menggalakkan kelonggaran, melepaskan ketegangan otot dan meningkatkan kesejahteraan keseluruhan, menjadikan anda berasa cergas dan segar.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Deep Thai Massage with Balm ialah teknik badan yang meremajakan dan terapeutik yang menggabungkan urutan tradisional Thai dengan sapuan balm aromatik yang menenangkan. Campuran unik urutan tisu dalam dan balm herba ini menggalakkan kelonggaran, melepaskan ketegangan otot dan meningkatkan kesejahteraan keseluruhan, menjadikan anda berasa cergas dan segar.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=56
+locale=nb_NO
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Deep Thai Massage with Balm er en foryngende og terapeutisk kroppsarbeidsteknikk som kombinerer tradisjonell thaimassasje med beroligende påføring av aromatiske balsamer. Denne unike blandingen av dypvevsmassasje og urtebalsam fremmer avslapning, frigjør muskelspenninger og forbedrer det generelle velvære, slik at du føler deg revitalisert og uthvilt.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Deep Thai Massage with Balm er en foryngende og terapeutisk kroppsarbeidsteknikk som kombinerer tradisjonell thaimassasje med beroligende påføring av aromatiske balsamer. Denne unike blandingen av dypvevsmassasje og urtebalsam fremmer avslapning, frigjør muskelspenninger og forbedrer det generelle velvære, slik at du føler deg revitalisert og uthvilt.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=42
+locale=pl_PL
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Głęboki Masaż Tajski Balsamem to odmładzająca i terapeutyczna technika pracy z ciałem, która łączy w sobie tradycyjny masaż tajski z kojącym zastosowaniem aromatycznych balsamów. To wyjątkowe połączenie głębokiego masażu tkanek i balsamów ziołowych sprzyja relaksacji, uwalnianiu napięcia mięśni i poprawia ogólne samopoczucie, pozostawiając uczucie ożywienia i odświeżenia.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Głęboki Masaż Tajski Balsamem to odmładzająca i terapeutyczna technika pracy z ciałem, która łączy w sobie tradycyjny masaż tajski z kojącym zastosowaniem aromatycznych balsamów. To wyjątkowe połączenie głębokiego masażu tkanek i balsamów ziołowych sprzyja relaksacji, uwalnianiu napięcia mięśni i poprawia ogólne samopoczucie, pozostawiając uczucie ożywienia i odświeżenia.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=2
+locale=ru_RU
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Глубокий тайский массаж с бальзамом – это омолаживающая и лечебная техника работы с телом, сочетающая традиционный тайский массаж с успокаивающим применением ароматических бальзамов. Эта уникальная смесь глубокого массажа тканей и травяных бальзамов способствует расслаблению, снимает мышечное напряжение и улучшает общее самочувствие, оставляя ощущение бодрости и свежести.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Хуа Хин&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Глубокий тайский массаж с бальзамом – это омолаживающая и лечебная техника работы с телом, сочетающая традиционный тайский массаж с успокаивающим применением ароматических бальзамов. Эта уникальная смесь глубокого массажа тканей и травяных бальзамов способствует расслаблению, снимает мышечное напряжение и улучшает общее самочувствие, оставляя ощущение бодрости и свежести.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Хуа Хин
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=27
+locale=es_ES
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>El Masaje Tailandés Profundo con Bálsamo es una técnica de trabajo corporal rejuvenecedora y terapéutica que combina el masaje tradicional tailandés con la relajante aplicación de bálsamos aromáticos. Esta combinación única de masaje de tejido profundo y bálsamos herbales promueve la relajación, libera la tensión muscular y mejora el bienestar general, dejándolo revitalizado y renovado.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>El Masaje Tailandés Profundo con Bálsamo es una técnica de trabajo corporal rejuvenecedora y terapéutica que combina el masaje tradicional tailandés con la relajante aplicación de bálsamos aromáticos. Esta combinación única de masaje de tejido profundo y bálsamos herbales promueve la relajación, libera la tensión muscular y mejora el bienestar general, dejándolo revitalizado y renovado.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => Hua Hin
+    [city] => 
+    [address] => 
+    [address_details_translated] => 0
+)
+storeId=46
+locale=sv_SE
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Djup thaimassage med balsam är en föryngrande och terapeutisk kroppsteknik som kombinerar traditionell thaimassage med en lugnande applicering av aromatiska balsam. Denna unika blandning av djupvävnadsmassage och örtbalsam främjar avslappning, släpper muskelspänningar och förbättrar det allmänna välbefinnandet, vilket gör att du känner dig återupplivad och utvilad.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Djup thaimassage med balsam är en föryngrande och terapeutisk kroppsteknik som kombinerar traditionell thaimassage med en lugnande applicering av aromatiska balsam. Denna unika blandning av djupvävnadsmassage och örtbalsam främjar avslappning, släpper muskelspänningar och förbättrar det allmänna välbefinnandet, vilket gör att du känner dig återupplivad och utvilad.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=49
+locale=zh_Hant_TW
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>香膏深層泰式按摩是一種恢復活力和治療身體的技術，將傳統泰式按摩與芳香香膏的舒緩應用相結合。這種深層組織按摩和草藥膏的獨特組合可促進放鬆、釋放肌肉緊張並增強整體健康，讓您感覺煥發活力、神清氣爽。</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;華欣&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>香膏深層泰式按摩是一種恢復活力和治療身體的技術，將傳統泰式按摩與芳香香膏的舒緩應用相結合。這種深層組織按摩和草藥膏的獨特組合可促進放鬆、釋放肌肉緊張並增強整體健康，讓您感覺煥發活力、神清氣爽。</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => 華欣
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=54
+locale=en_US
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+from cache:<p>Deep Thai Massage with Balm is a rejuvenating and therapeutic bodywork technique that combines traditional Thai massage with the soothing application of aromatic balms. This unique blend of deep tissue massage and herbal balms promotes relaxation, releases muscle tension, and enhances overall well-being, leaving you feeling revitalized and refreshed.</p>from cache:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;]array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Deep Thai Massage with Balm is a rejuvenating and therapeutic bodywork technique that combines traditional Thai massage with the soothing application of aromatic balms. This unique blend of deep tissue massage and herbal balms promotes relaxation, releases muscle tension, and enhances overall well-being, leaving you feeling revitalized and refreshed.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=28
+locale=vi_VN
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 0
+    [10] => 
+)
+
+
+
+translation=<p>Massage Thái sâu với dầu dưỡng là một kỹ thuật trị liệu và trẻ hóa cơ thể, kết hợp massage Thái truyền thống với việc thoa nhẹ nhàng các loại dầu thơm. Sự pha trộn độc đáo giữa massage mô sâu và dầu dưỡng thảo dược này giúp thúc đẩy thư giãn, giải phóng căng cơ và tăng cường sức khỏe tổng thể, khiến bạn cảm thấy được hồi sinh và sảng khoái.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;,&quot;,&quot;Hua Hin&quot;,&quot;,&quot;,&quot;,&quot;,&quot;0&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Massage Thái sâu với dầu dưỡng là một kỹ thuật trị liệu và trẻ hóa cơ thể, kết hợp massage Thái truyền thống với việc thoa nhẹ nhàng các loại dầu thơm. Sự pha trộn độc đáo giữa massage mô sâu và dầu dưỡng thảo dược này giúp thúc đẩy thư giãn, giải phóng căng cơ và tăng cường sức khỏe tổng thể, khiến bạn cảm thấy được hồi sinh và sảng khoái.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => ,
+    [city] => Hua Hin
+    [address] => ,
+    [address_details_translated] => ,
+)
+productId=56
+productId=56
+websiteName=Thai Massage And Herbal Compass
+websiteDescription=
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => <p>Thai Massage with Herbal Compress is a rejuvenating spa treatment that combines traditional Thai massage techniques with the therapeutic benefits of warm herbal compresses. This therapeutic experience involves skilled therapists using gentle stretches, acupressure, and rhythmic movements to relax the body, while aromatic herbal compresses, filled with a blend of herbs, are applied to soothe and invigorate the muscles. It's a holistic and soothing therapy that promotes relaxation, relieves tension, and enhances overall well-being.</p>
+    [description_translated] => 
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+    [phone] => 
+    [facebook] => 
+    [instagram] => 
+    [website] => 
+    [google_maps_url] => 
+    [booking_required] => 
+    [price_range] => 
+)
+storeId=4
+locale=th_TH
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>การนวดแผนไทยพร้อมประคบสมุนไพรเป็นสปาทรีตเมนต์เพื่อการฟื้นฟูที่ผสมผสานเทคนิคการนวดแผนไทยเข้ากับคุณประโยชน์ในการบำบัดด้วยการประคบสมุนไพรอุ่น ๆ ประสบการณ์การบำบัดนี้เกี่ยวข้องกับนักบำบัดผู้ชำนาญโดยใช้การยืดเหยียด การกดจุด และการเคลื่อนไหวเป็นจังหวะเพื่อผ่อนคลายร่างกาย ในขณะที่ประคบสมุนไพรอโรมาซึ่งเต็มไปด้วยส่วนผสมของสมุนไพรถูกนำมาใช้เพื่อบรรเทาและเติมพลังให้กล้ามเนื้อ เป็นการบำบัดแบบองค์รวมและผ่อนคลายที่ส่งเสริมการผ่อนคลาย บรรเทาความตึงเครียด และเพิ่มความเป็นอยู่โดยรวม</p>
+from cache:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;หัวหิน&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>การนวดแผนไทยพร้อมประคบสมุนไพรเป็นสปาทรีตเมนต์เพื่อการฟื้นฟูที่ผสมผสานเทคนิคการนวดแผนไทยเข้ากับคุณประโยชน์ในการบำบัดด้วยการประคบสมุนไพรอุ่น ๆ ประสบการณ์การบำบัดนี้เกี่ยวข้องกับนักบำบัดผู้ชำนาญโดยใช้การยืดเหยียด การกดจุด และการเคลื่อนไหวเป็นจังหวะเพื่อผ่อนคลายร่างกาย ในขณะที่ประคบสมุนไพรอโรมาซึ่งเต็มไปด้วยส่วนผสมของสมุนไพรถูกนำมาใช้เพื่อบรรเทาและเติมพลังให้กล้ามเนื้อ เป็นการบำบัดแบบองค์รวมและผ่อนคลายที่ส่งเสริมการผ่อนคลาย บรรเทาความตึงเครียด และเพิ่มความเป็นอยู่โดยรวม</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => หัวหิน
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=1
+locale=en_US
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Thai Massage with Herbal Compress is a rejuvenating spa treatment that combines traditional Thai massage techniques with the therapeutic benefits of warm herbal compresses. This therapeutic experience involves skilled therapists using gentle stretches, acupressure, and rhythmic movements to relax the body, while aromatic herbal compresses, filled with a blend of herbs, are applied to soothe and invigorate the muscles. It's a holistic and soothing therapy that promotes relaxation, relieves tension, and enhances overall well-being.</p>
+from cache:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Thai Massage with Herbal Compress is a rejuvenating spa treatment that combines traditional Thai massage techniques with the therapeutic benefits of warm herbal compresses. This therapeutic experience involves skilled therapists using gentle stretches, acupressure, and rhythmic movements to relax the body, while aromatic herbal compresses, filled with a blend of herbs, are applied to soothe and invigorate the muscles. It's a holistic and soothing therapy that promotes relaxation, relieves tension, and enhances overall well-being.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=5
+locale=zh_Hans_CN
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>泰式草药热敷按摩是一种恢复活力的水疗护理，结合了传统泰式按摩技术和温暖草药热敷的治疗功效。在这种治疗体验中，熟练的治疗师会使用轻柔的伸展、穴位按摩和有节奏的动作来放松身体，同时使用充满混合草药的芳香草药敷布来舒缓和激活肌肉。这是一种整体舒缓疗法，可促进放松、缓解紧张并增强整体健康。</p>
+from cache:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;华欣&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>泰式草药热敷按摩是一种恢复活力的水疗护理，结合了传统泰式按摩技术和温暖草药热敷的治疗功效。在这种治疗体验中，熟练的治疗师会使用轻柔的伸展、穴位按摩和有节奏的动作来放松身体，同时使用充满混合草药的芳香草药敷布来舒缓和激活肌肉。这是一种整体舒缓疗法，可促进放松、缓解紧张并增强整体健康。</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => 华欣
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=48
+locale=sq_AL
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Masazhi Thai me kompresë bimore është një trajtim spa rinovues që kombinon teknikat tradicionale të masazhit tajlandez me përfitimet terapeutike të kompresave të ngrohta bimore. Kjo përvojë terapeutike përfshin terapistë të aftë që përdorin shtrirje të buta, akupresurë dhe lëvizje ritmike për të relaksuar trupin, ndërsa kompresat bimore aromatike, të mbushura me një përzierje barishtesh, aplikohen për të qetësuar dhe gjallëruar muskujt. Është një terapi holistike dhe qetësuese që nxit relaksimin, lehtëson tensionin dhe rrit mirëqenien e përgjithshme.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;, &quot;&quot;,&quot;&quot;, &quot;Hua Hin&quot;, &quot;&quot;,&quot;&quot;, &quot;&quot;,&quot;&quot;&quot;&quot;&quot;]
+PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+
+Warning: count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+array translate != OK
+Array
+(
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Masazhi Thai me kompresë bimore është një trajtim spa rinovues që kombinon teknikat tradicionale të masazhit tajlandez me përfitimet terapeutike të kompresave të ngrohta bimore. Kjo përvojë terapeutike përfshin terapistë të aftë që përdorin shtrirje të buta, akupresurë dhe lëvizje ritmike për të relaksuar trupin, ndërsa kompresat bimore aromatike, të mbushura me një përzierje barishtesh, aplikohen për të qetësuar dhe gjallëruar muskujt. Është një terapi holistike dhe qetësuese që nxit relaksimin, lehtëson tensionin dhe rrit mirëqenien e përgjithshme.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [address_details_translated] => 
+)
+storeId=45
+locale=ar_KW
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p style=";text-align:right;direction:rtl">التدليك التايلاندي مع الكمادات العشبية هو علاج سبا مجدد يجمع بين تقنيات التدليك التايلاندي التقليدي والفوائد العلاجية للكمادات العشبية الدافئة. تتضمن هذه التجربة العلاجية معالجين ماهرين يستخدمون تمارين التمدد اللطيفة والضغط الإبري والحركات الإيقاعية لاسترخاء الجسم، بينما يتم تطبيق كمادات الأعشاب العطرية المملوءة بمزيج من الأعشاب لتهدئة العضلات وتنشيطها. إنه علاج شامل ومهدئ يعزز الاسترخاء ويخفف التوتر ويعزز الصحة العامة.</p>
+translation=[&quot;&quot;،&quot;&quot;،&quot;&quot;،&quot;&quot;،&quot;&quot;،&quot;هوا هين&quot;،&quot;&quot;،&quot;&quot;،&quot;&quot;،&quot;&quot;،&quot;&quot;]
+PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+
+Warning: count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+array translate != OK
+Array
+(
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p style=";text-align:right;direction:rtl">التدليك التايلاندي مع الكمادات العشبية هو علاج سبا مجدد يجمع بين تقنيات التدليك التايلاندي التقليدي والفوائد العلاجية للكمادات العشبية الدافئة. تتضمن هذه التجربة العلاجية معالجين ماهرين يستخدمون تمارين التمدد اللطيفة والضغط الإبري والحركات الإيقاعية لاسترخاء الجسم، بينما يتم تطبيق كمادات الأعشاب العطرية المملوءة بمزيج من الأعشاب لتهدئة العضلات وتنشيطها. إنه علاج شامل ومهدئ يعزز الاسترخاء ويخفف التوتر ويعزز الصحة العامة.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [address_details_translated] => 
+)
+storeId=50
+locale=bn_IN
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>হার্বাল কম্প্রেসের সাথে থাই ম্যাসেজ হল একটি পুনরুজ্জীবিত স্পা চিকিত্সা যা ঐতিহ্যবাহী থাই ম্যাসেজ কৌশলগুলিকে উষ্ণ হার্বাল কম্প্রেসের থেরাপিউটিক সুবিধাগুলির সাথে একত্রিত করে। এই থেরাপিউটিক অভিজ্ঞতার মধ্যে দক্ষ থেরাপিস্টরা শরীরকে শিথিল করার জন্য মৃদু প্রসারিত, আকুপ্রেশার এবং ছন্দময় নড়াচড়া ব্যবহার করে, যখন সুগন্ধযুক্ত ভেষজ কম্প্রেসগুলি, ভেষজগুলির মিশ্রণে ভরা, পেশীগুলিকে প্রশমিত করতে এবং শক্তিশালী করতে প্রয়োগ করা হয়। এটি একটি সামগ্রিক এবং প্রশান্তিদায়ক থেরাপি যা শিথিলকরণের প্রচার করে, উত্তেজনা থেকে মুক্তি দেয় এবং সামগ্রিক সুস্থতা বাড়ায়।</p>
+translation=[&quot;&quot;,&quot;&quot;&quot;&quot;,&quot;&quot;,&quot;&quot;হুয়া হিন&quot;,&quot;&quot;&quot;&quot;,&quot;&quot;&quot;,&quot;&quot;]
+PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+
+Warning: count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+array translate != OK
+Array
+(
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>হার্বাল কম্প্রেসের সাথে থাই ম্যাসেজ হল একটি পুনরুজ্জীবিত স্পা চিকিত্সা যা ঐতিহ্যবাহী থাই ম্যাসেজ কৌশলগুলিকে উষ্ণ হার্বাল কম্প্রেসের থেরাপিউটিক সুবিধাগুলির সাথে একত্রিত করে। এই থেরাপিউটিক অভিজ্ঞতার মধ্যে দক্ষ থেরাপিস্টরা শরীরকে শিথিল করার জন্য মৃদু প্রসারিত, আকুপ্রেশার এবং ছন্দময় নড়াচড়া ব্যবহার করে, যখন সুগন্ধযুক্ত ভেষজ কম্প্রেসগুলি, ভেষজগুলির মিশ্রণে ভরা, পেশীগুলিকে প্রশমিত করতে এবং শক্তিশালী করতে প্রয়োগ করা হয়। এটি একটি সামগ্রিক এবং প্রশান্তিদায়ক থেরাপি যা শিথিলকরণের প্রচার করে, উত্তেজনা থেকে মুক্তি দেয় এবং সামগ্রিক সুস্থতা বাড়ায়।</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [address_details_translated] => 
+)
+storeId=47
+locale=bs_Latn_BA
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Tajlandska masaža sa biljnim kompresom je spa tretman koji kombinuje tradicionalne tehnike tajlandske masaže sa terapijskim blagodetima toplih biljnih obloga. Ovo terapeutsko iskustvo uključuje vješte terapeute koji koriste nježna istezanja, akupresuru i ritmičke pokrete kako bi opustili tijelo, dok se aromatične biljne obloge, punjene mješavinom bilja, primjenjuju kako bi umirile i okrepile mišiće. To je holistička i umirujuća terapija koja potiče opuštanje, ublažava napetost i poboljšava cjelokupno blagostanje.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Tajlandska masaža sa biljnim kompresom je spa tretman koji kombinuje tradicionalne tehnike tajlandske masaže sa terapijskim blagodetima toplih biljnih obloga. Ovo terapeutsko iskustvo uključuje vješte terapeute koji koriste nježna istezanja, akupresuru i ritmičke pokrete kako bi opustili tijelo, dok se aromatične biljne obloge, punjene mješavinom bilja, primjenjuju kako bi umirile i okrepile mišiće. To je holistička i umirujuća terapija koja potiče opuštanje, ublažava napetost i poboljšava cjelokupno blagostanje.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=55
+locale=da_DK
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Thaimassage med urtekompress er en foryngende spabehandling, der kombinerer traditionelle thailandske massageteknikker med de terapeutiske fordele ved varme urtekompresser. Denne terapeutiske oplevelse involverer dygtige terapeuter, der bruger blide stræk, akupressur og rytmiske bevægelser til at slappe af kroppen, mens aromatiske urtekompresser, fyldt med en blanding af urter, påføres for at lindre og puste nyt liv i musklerne. Det er en holistisk og beroligende terapi, der fremmer afslapning, lindrer spændinger og forbedrer det generelle velvære.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Thaimassage med urtekompress er en foryngende spabehandling, der kombinerer traditionelle thailandske massageteknikker med de terapeutiske fordele ved varme urtekompresser. Denne terapeutiske oplevelse involverer dygtige terapeuter, der bruger blide stræk, akupressur og rytmiske bevægelser til at slappe af kroppen, mens aromatiske urtekompresser, fyldt med en blanding af urter, påføres for at lindre og puste nyt liv i musklerne. Det er en holistisk og beroligende terapi, der fremmer afslapning, lindrer spændinger og forbedrer det generelle velvære.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=37
+locale=nl_NL
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Thaise massage met kruidenkompres is een verjongende spabehandeling die traditionele Thaise massagetechnieken combineert met de therapeutische voordelen van warme kruidenkompressen. Deze therapeutische ervaring omvat bekwame therapeuten die zachte rekoefeningen, acupressuur en ritmische bewegingen gebruiken om het lichaam te ontspannen, terwijl aromatische kruidenkompressen, gevuld met een mengsel van kruiden, worden aangebracht om de spieren te kalmeren en te versterken. Het is een holistische en rustgevende therapie die ontspanning bevordert, spanning verlicht en het algehele welzijn verbetert.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;, &quot;Hua Hin&quot;, &quot;&quot;,&quot;&quot;, &quot;&quot;, &quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Thaise massage met kruidenkompres is een verjongende spabehandeling die traditionele Thaise massagetechnieken combineert met de therapeutische voordelen van warme kruidenkompressen. Deze therapeutische ervaring omvat bekwame therapeuten die zachte rekoefeningen, acupressuur en ritmische bewegingen gebruiken om het lichaam te ontspannen, terwijl aromatische kruidenkompressen, gevuld met een mengsel van kruiden, worden aangebracht om de spieren te kalmeren en te versterken. Het is een holistische en rustgevende therapie die ontspanning bevordert, spanning verlicht en het algehele welzijn verbetert.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => Hua Hin
+    [city] => 
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=36
+locale=fi_FI
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Thai-hieronta yrttikompressilla on virkistävä kylpylähoito, jossa yhdistyvät perinteiset thai-hierontatekniikat lämpimien yrttikompressien terapeuttisiin hyötyihin. Tässä terapeuttisessa kokemuksessa ammattitaitoiset terapeutit käyttävät lempeitä venyttelyjä, akupainantaa ja rytmisiä liikkeitä kehon rentouttamiseen, kun taas aromaattisia yrttikompresseja, jotka on täytetty yrttiseoksella, käytetään rauhoittamaan ja virkistämään lihaksia. Se on kokonaisvaltainen ja rauhoittava terapia, joka edistää rentoutumista, lievittää jännitteitä ja parantaa yleistä hyvinvointia.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;&quot;]
+PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+
+Warning: count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+array translate != OK
+Array
+(
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Thai-hieronta yrttikompressilla on virkistävä kylpylähoito, jossa yhdistyvät perinteiset thai-hierontatekniikat lämpimien yrttikompressien terapeuttisiin hyötyihin. Tässä terapeuttisessa kokemuksessa ammattitaitoiset terapeutit käyttävät lempeitä venyttelyjä, akupainantaa ja rytmisiä liikkeitä kehon rentouttamiseen, kun taas aromaattisia yrttikompresseja, jotka on täytetty yrttiseoksella, käytetään rauhoittamaan ja virkistämään lihaksia. Se on kokonaisvaltainen ja rauhoittava terapia, joka edistää rentoutumista, lievittää jännitteitä ja parantaa yleistä hyvinvointia.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [address_details_translated] => 
+)
+storeId=13
+locale=fr_FR
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Le massage thaïlandais avec compresses aux herbes est un traitement spa rajeunissant qui combine des techniques de massage thaïlandaises traditionnelles avec les bienfaits thérapeutiques des compresses chaudes aux herbes. Cette expérience thérapeutique implique des thérapeutes qualifiés utilisant des étirements doux, de l&#39;acupression et des mouvements rythmés pour détendre le corps, tandis que des compresses d&#39;herbes aromatiques, remplies d&#39;un mélange d&#39;herbes, sont appliquées pour apaiser et revigorer les muscles. C&#39;est une thérapie holistique et apaisante qui favorise la relaxation, soulage les tensions et améliore le bien-être général.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Le massage thaïlandais avec compresses aux herbes est un traitement spa rajeunissant qui combine des techniques de massage thaïlandaises traditionnelles avec les bienfaits thérapeutiques des compresses chaudes aux herbes. Cette expérience thérapeutique implique des thérapeutes qualifiés utilisant des étirements doux, de l&#39;acupression et des mouvements rythmés pour détendre le corps, tandis que des compresses d&#39;herbes aromatiques, remplies d&#39;un mélange d&#39;herbes, sont appliquées pour apaiser et revigorer les muscles. C&#39;est une thérapie holistique et apaisante qui favorise la relaxation, soulage les tensions et améliore le bien-être général.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=26
+locale=de_DE
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Die Thai-Massage mit Kräuterkompresse ist eine verjüngende Spa-Behandlung, die traditionelle Thai-Massagetechniken mit den therapeutischen Vorteilen warmer Kräuterkompressen kombiniert. Bei diesem therapeutischen Erlebnis nutzen erfahrene Therapeuten sanfte Dehnübungen, Akupressur und rhythmische Bewegungen, um den Körper zu entspannen, während aromatische Kräuterkompressen, gefüllt mit einer Kräutermischung, die Muskeln beruhigen und beleben. Es handelt sich um eine ganzheitliche und wohltuende Therapie, die die Entspannung fördert, Verspannungen löst und das allgemeine Wohlbefinden steigert.</p>
+translation=[„“, „“, „“, „Hua Hin“, „“, „“, „“, „“]
+PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+
+Warning: count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+array translate != OK
+Array
+(
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Die Thai-Massage mit Kräuterkompresse ist eine verjüngende Spa-Behandlung, die traditionelle Thai-Massagetechniken mit den therapeutischen Vorteilen warmer Kräuterkompressen kombiniert. Bei diesem therapeutischen Erlebnis nutzen erfahrene Therapeuten sanfte Dehnübungen, Akupressur und rhythmische Bewegungen, um den Körper zu entspannen, während aromatische Kräuterkompressen, gefüllt mit einer Kräutermischung, die Muskeln beruhigen und beleben. Es handelt sich um eine ganzheitliche und wohltuende Therapie, die die Entspannung fördert, Verspannungen löst und das allgemeine Wohlbefinden steigert.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [address_details_translated] => 
+)
+storeId=57
+locale=he_IL
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p style=";text-align:right;direction:rtl">עיסוי תאילנדי עם קומפרס צמחי הוא טיפול ספא מרענן המשלב טכניקות עיסוי תאילנדי מסורתי עם היתרונות הטיפוליים של קומפרסים צמחיים חמים. חוויה טיפולית זו כוללת מטפלים מיומנים המשתמשים במתיחות עדינות, אקופרסורה ותנועות קצביות להרפיית הגוף, בעוד שקומפרסים צמחיים ארומטיים, מלאים בתערובת של עשבי תיבול, מיושמים כדי להרגיע ולהמריץ את השרירים. זהו טיפול הוליסטי ומרגיע המקדם הרפיה, מפיג מתחים ומשפר את הרווחה הכללית.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p style=";text-align:right;direction:rtl">עיסוי תאילנדי עם קומפרס צמחי הוא טיפול ספא מרענן המשלב טכניקות עיסוי תאילנדי מסורתי עם היתרונות הטיפוליים של קומפרסים צמחיים חמים. חוויה טיפולית זו כוללת מטפלים מיומנים המשתמשים במתיחות עדינות, אקופרסורה ותנועות קצביות להרפיית הגוף, בעוד שקומפרסים צמחיים ארומטיים, מלאים בתערובת של עשבי תיבול, מיושמים כדי להרגיע ולהמריץ את השרירים. זהו טיפול הוליסטי ומרגיע המקדם הרפיה, מפיג מתחים ומשפר את הרווחה הכללית.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=25
+locale=hi_IN
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>हर्बल कंप्रेस के साथ थाई मसाज एक कायाकल्प करने वाला स्पा उपचार है जो पारंपरिक थाई मसाज तकनीकों को गर्म हर्बल कंप्रेस के चिकित्सीय लाभों के साथ जोड़ता है। इस चिकित्सीय अनुभव में कुशल चिकित्सक शरीर को आराम देने के लिए कोमल स्ट्रेच, एक्यूप्रेशर और लयबद्ध आंदोलनों का उपयोग करते हैं, जबकि जड़ी-बूटियों के मिश्रण से भरे सुगंधित हर्बल कंप्रेस मांसपेशियों को शांत करने और स्फूर्तिदायक बनाने के लिए लगाए जाते हैं। यह एक समग्र और सुखदायक थेरेपी है जो विश्राम को बढ़ावा देती है, तनाव से राहत देती है और समग्र कल्याण को बढ़ाती है।</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>हर्बल कंप्रेस के साथ थाई मसाज एक कायाकल्प करने वाला स्पा उपचार है जो पारंपरिक थाई मसाज तकनीकों को गर्म हर्बल कंप्रेस के चिकित्सीय लाभों के साथ जोड़ता है। इस चिकित्सीय अनुभव में कुशल चिकित्सक शरीर को आराम देने के लिए कोमल स्ट्रेच, एक्यूप्रेशर और लयबद्ध आंदोलनों का उपयोग करते हैं, जबकि जड़ी-बूटियों के मिश्रण से भरे सुगंधित हर्बल कंप्रेस मांसपेशियों को शांत करने और स्फूर्तिदायक बनाने के लिए लगाए जाते हैं। यह एक समग्र और सुखदायक थेरेपी है जो विश्राम को बढ़ावा देती है, तनाव से राहत देती है और समग्र कल्याण को बढ़ाती है।</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=52
+locale=id_ID
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Pijat Thailand dengan Kompres Herbal adalah perawatan spa peremajaan yang menggabungkan teknik pijat tradisional Thailand dengan manfaat terapeutik kompres herbal hangat. Pengalaman terapeutik ini melibatkan terapis terampil yang menggunakan peregangan lembut, akupresur, dan gerakan berirama untuk merilekskan tubuh, sementara kompres herbal aromatik, yang diisi dengan campuran herbal, diterapkan untuk menenangkan dan menyegarkan otot. Ini adalah terapi holistik dan menenangkan yang meningkatkan relaksasi, meredakan ketegangan, dan meningkatkan kesejahteraan secara keseluruhan.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Pijat Thailand dengan Kompres Herbal adalah perawatan spa peremajaan yang menggabungkan teknik pijat tradisional Thailand dengan manfaat terapeutik kompres herbal hangat. Pengalaman terapeutik ini melibatkan terapis terampil yang menggunakan peregangan lembut, akupresur, dan gerakan berirama untuk merilekskan tubuh, sementara kompres herbal aromatik, yang diisi dengan campuran herbal, diterapkan untuk menenangkan dan menyegarkan otot. Ini adalah terapi holistik dan menenangkan yang meningkatkan relaksasi, meredakan ketegangan, dan meningkatkan kesejahteraan secara keseluruhan.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=40
+locale=it_IT
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Il massaggio tailandese con impacchi alle erbe è un trattamento termale rigenerante che combina le tradizionali tecniche di massaggio tailandesi con i benefici terapeutici degli impacchi caldi alle erbe. Questa esperienza terapeutica coinvolge terapisti esperti che utilizzano stiramenti delicati, digitopressione e movimenti ritmici per rilassare il corpo, mentre impacchi alle erbe aromatiche, riempiti con una miscela di erbe, vengono applicati per lenire e rinvigorire i muscoli. È una terapia olistica e rilassante che promuove il rilassamento, allevia la tensione e migliora il benessere generale.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Il massaggio tailandese con impacchi alle erbe è un trattamento termale rigenerante che combina le tradizionali tecniche di massaggio tailandesi con i benefici terapeutici degli impacchi caldi alle erbe. Questa esperienza terapeutica coinvolge terapisti esperti che utilizzano stiramenti delicati, digitopressione e movimenti ritmici per rilassare il corpo, mentre impacchi alle erbe aromatiche, riempiti con una miscela di erbe, vengono applicati per lenire e rinvigorire i muscoli. È una terapia olistica e rilassante che promuove il rilassamento, allevia la tensione e migliora il benessere generale.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=41
+locale=ja_JP
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>ハーバル湿布を使用したタイ式マッサージは、伝統的なタイ式マッサージのテクニックと温かいハーブ湿布の治療効果を組み合わせた若返りのスパ トリートメントです。この治療体験では、熟練したセラピストが穏やかなストレッチ、指圧、リズミカルな動きを使用して体をリラックスさせ、ハーブのブレンドを詰めた芳香ハーブ湿布を適用して筋肉を落ち着かせて活性化します。これは、リラクゼーションを促進し、緊張を和らげ、全体的な幸福感を高める総合的で心地よいセラピーです。</p>
+translation=[&quot;&quot;、&quot;&quot;、&quot;&quot;、&quot;&quot;、&quot;&quot;、&quot;ホアヒン&quot;、&quot;&quot;、&quot;&quot;、&quot;&quot;、&quot;&quot;、&quot;&quot;]
+PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+
+Warning: count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+array translate != OK
+Array
+(
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>ハーバル湿布を使用したタイ式マッサージは、伝統的なタイ式マッサージのテクニックと温かいハーブ湿布の治療効果を組み合わせた若返りのスパ トリートメントです。この治療体験では、熟練したセラピストが穏やかなストレッチ、指圧、リズミカルな動きを使用して体をリラックスさせ、ハーブのブレンドを詰めた芳香ハーブ湿布を適用して筋肉を落ち着かせて活性化します。これは、リラクゼーションを促進し、緊張を和らげ、全体的な幸福感を高める総合的で心地よいセラピーです。</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [address_details_translated] => 
+)
+storeId=7
+locale=ko_KR
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>허브 압축을 이용한 타이 마사지는 전통적인 태국 마사지 기술과 따뜻한 허브 압축의 치료 효과를 결합한 활력을 되찾아주는 스파 트리트먼트입니다. 이 치료 경험에는 숙련된 치료사들이 몸을 이완시키기 위해 부드러운 스트레칭, 지압, 리드미컬한 움직임을 사용하고, 허브 혼합물로 채워진 아로마 허브 압축 요법을 적용하여 근육을 진정시키고 활력을 줍니다. 휴식을 촉진하고 긴장을 완화하며 전반적인 웰빙을 향상시키는 총체적이고 진정 요법입니다.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;후아힌&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>허브 압축을 이용한 타이 마사지는 전통적인 태국 마사지 기술과 따뜻한 허브 압축의 치료 효과를 결합한 활력을 되찾아주는 스파 트리트먼트입니다. 이 치료 경험에는 숙련된 치료사들이 몸을 이완시키기 위해 부드러운 스트레칭, 지압, 리드미컬한 움직임을 사용하고, 허브 혼합물로 채워진 아로마 허브 압축 요법을 적용하여 근육을 진정시키고 활력을 줍니다. 휴식을 촉진하고 긴장을 완화하며 전반적인 웰빙을 향상시키는 총체적이고 진정 요법입니다.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => 후아힌
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=51
+locale=ms_MY
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Thai Massage with Herbal Compress ialah rawatan spa yang meremajakan yang menggabungkan teknik urutan tradisional Thai dengan faedah terapeutik kompres herba hangat. Pengalaman terapeutik ini melibatkan ahli terapi mahir menggunakan regangan lembut, akutekanan, dan pergerakan berirama untuk merehatkan badan, manakala kompres herba aromatik, diisi dengan campuran herba, digunakan untuk menenangkan dan mencergaskan otot. Ia merupakan terapi holistik dan menenangkan yang menggalakkan kelonggaran, melegakan ketegangan dan meningkatkan kesejahteraan keseluruhan.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Thai Massage with Herbal Compress ialah rawatan spa yang meremajakan yang menggabungkan teknik urutan tradisional Thai dengan faedah terapeutik kompres herba hangat. Pengalaman terapeutik ini melibatkan ahli terapi mahir menggunakan regangan lembut, akutekanan, dan pergerakan berirama untuk merehatkan badan, manakala kompres herba aromatik, diisi dengan campuran herba, digunakan untuk menenangkan dan mencergaskan otot. Ia merupakan terapi holistik dan menenangkan yang menggalakkan kelonggaran, melegakan ketegangan dan meningkatkan kesejahteraan keseluruhan.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=56
+locale=nb_NO
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Thaimassasje med urtekompress er en foryngende spabehandling som kombinerer tradisjonelle thaimassasjeteknikker med de terapeutiske fordelene til varme urtekompresser. Denne terapeutiske opplevelsen involverer dyktige terapeuter som bruker milde strekk, akupressur og rytmiske bevegelser for å slappe av kroppen, mens aromatiske urtekompresser, fylt med en blanding av urter, påføres for å berolige og styrke musklene. Det er en helhetlig og beroligende terapi som fremmer avslapning, lindrer spenninger og forbedrer det generelle velvære.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Thaimassasje med urtekompress er en foryngende spabehandling som kombinerer tradisjonelle thaimassasjeteknikker med de terapeutiske fordelene til varme urtekompresser. Denne terapeutiske opplevelsen involverer dyktige terapeuter som bruker milde strekk, akupressur og rytmiske bevegelser for å slappe av kroppen, mens aromatiske urtekompresser, fylt med en blanding av urter, påføres for å berolige og styrke musklene. Det er en helhetlig og beroligende terapi som fremmer avslapning, lindrer spenninger og forbedrer det generelle velvære.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=42
+locale=pl_PL
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Masaż Tajski z Kompresem Ziołowym to odmładzający zabieg spa, łączący tradycyjne techniki masażu tajskiego z terapeutycznymi właściwościami ciepłych okładów ziołowych. To terapeutyczne doświadczenie obejmuje wykwalifikowanych terapeutów, którzy stosują delikatne rozciąganie, akupresurę i rytmiczne ruchy w celu rozluźnienia ciała, podczas gdy aromatyczne okłady ziołowe wypełnione mieszanką ziół stosowane są w celu ukojenia i ożywienia mięśni. To holistyczna i kojąca terapia, która sprzyja relaksowi, łagodzeniu napięcia i poprawie ogólnego samopoczucia.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Masaż Tajski z Kompresem Ziołowym to odmładzający zabieg spa, łączący tradycyjne techniki masażu tajskiego z terapeutycznymi właściwościami ciepłych okładów ziołowych. To terapeutyczne doświadczenie obejmuje wykwalifikowanych terapeutów, którzy stosują delikatne rozciąganie, akupresurę i rytmiczne ruchy w celu rozluźnienia ciała, podczas gdy aromatyczne okłady ziołowe wypełnione mieszanką ziół stosowane są w celu ukojenia i ożywienia mięśni. To holistyczna i kojąca terapia, która sprzyja relaksowi, łagodzeniu napięcia i poprawie ogólnego samopoczucia.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=2
+locale=ru_RU
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Тайский массаж с травяными компрессами — это омолаживающая спа-процедура, сочетающая в себе традиционные техники тайского массажа с терапевтической эффективностью теплых травяных компрессов. В этом терапевтическом опыте опытные терапевты используют мягкие растяжки, точечный массаж и ритмические движения для расслабления тела, а ароматические травяные компрессы, наполненные смесью трав, применяются для успокоения и укрепления мышц. Это целостная и успокаивающая терапия, которая способствует расслаблению, снимает напряжение и улучшает общее самочувствие.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Хуа Хин&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Тайский массаж с травяными компрессами — это омолаживающая спа-процедура, сочетающая в себе традиционные техники тайского массажа с терапевтической эффективностью теплых травяных компрессов. В этом терапевтическом опыте опытные терапевты используют мягкие растяжки, точечный массаж и ритмические движения для расслабления тела, а ароматические травяные компрессы, наполненные смесью трав, применяются для успокоения и укрепления мышц. Это целостная и успокаивающая терапия, которая способствует расслаблению, снимает напряжение и улучшает общее самочувствие.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Хуа Хин
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=27
+locale=es_ES
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>El masaje tailandés con compresas de hierbas es un tratamiento de spa rejuvenecedor que combina técnicas tradicionales de masaje tailandés con los beneficios terapéuticos de las compresas de hierbas tibias. Esta experiencia terapéutica involucra a terapeutas expertos que utilizan estiramientos suaves, acupresión y movimientos rítmicos para relajar el cuerpo, mientras que se aplican compresas de hierbas aromáticas, llenas de una mezcla de hierbas, para calmar y tonificar los músculos. Es una terapia holística y calmante que promueve la relajación, alivia la tensión y mejora el bienestar general.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>El masaje tailandés con compresas de hierbas es un tratamiento de spa rejuvenecedor que combina técnicas tradicionales de masaje tailandés con los beneficios terapéuticos de las compresas de hierbas tibias. Esta experiencia terapéutica involucra a terapeutas expertos que utilizan estiramientos suaves, acupresión y movimientos rítmicos para relajar el cuerpo, mientras que se aplican compresas de hierbas aromáticas, llenas de una mezcla de hierbas, para calmar y tonificar los músculos. Es una terapia holística y calmante que promueve la relajación, alivia la tensión y mejora el bienestar general.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=46
+locale=sv_SE
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Thaimassage med örtkompress är en föryngrande spabehandling som kombinerar traditionella thailändska massagetekniker med de terapeutiska fördelarna med varma örtkompresser. Denna terapeutiska upplevelse involverar skickliga terapeuter som använder mjuka sträckningar, akupressur och rytmiska rörelser för att slappna av i kroppen, medan aromatiska växtbaserade kompresser, fyllda med en blandning av örter, appliceras för att lugna och stärka musklerna. Det är en holistisk och lugnande terapi som främjar avslappning, lindrar spänningar och förbättrar det allmänna välbefinnandet.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Thaimassage med örtkompress är en föryngrande spabehandling som kombinerar traditionella thailändska massagetekniker med de terapeutiska fördelarna med varma örtkompresser. Denna terapeutiska upplevelse involverar skickliga terapeuter som använder mjuka sträckningar, akupressur och rytmiska rörelser för att slappna av i kroppen, medan aromatiska växtbaserade kompresser, fyllda med en blandning av örter, appliceras för att lugna och stärka musklerna. Det är en holistisk och lugnande terapi som främjar avslappning, lindrar spänningar och förbättrar det allmänna välbefinnandet.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=49
+locale=zh_Hant_TW
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>泰式草藥熱敷按摩是一種恢復活力的水療護理，結合了傳統泰式按摩技術和溫暖草藥熱敷的治療功效。在這種治療體驗中，熟練的治療師會使用輕柔的伸展、穴位按摩和有節奏的動作來放鬆身體，同時使用充滿混合草藥的芳香草藥敷布來舒緩和激活肌肉。這是一種整體舒緩療法，可促進放鬆、緩解緊張並增強整體健康。</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;華欣&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]
+array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>泰式草藥熱敷按摩是一種恢復活力的水療護理，結合了傳統泰式按摩技術和溫暖草藥熱敷的治療功效。在這種治療體驗中，熟練的治療師會使用輕柔的伸展、穴位按摩和有節奏的動作來放鬆身體，同時使用充滿混合草藥的芳香草藥敷布來舒緩和激活肌肉。這是一種整體舒緩療法，可促進放鬆、緩解緊張並增強整體健康。</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => 華欣
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=54
+locale=en_US
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+from cache:<p>Thai Massage with Herbal Compress is a rejuvenating spa treatment that combines traditional Thai massage techniques with the therapeutic benefits of warm herbal compresses. This therapeutic experience involves skilled therapists using gentle stretches, acupressure, and rhythmic movements to relax the body, while aromatic herbal compresses, filled with a blend of herbs, are applied to soothe and invigorate the muscles. It's a holistic and soothing therapy that promotes relaxation, relieves tension, and enhances overall well-being.</p>from cache:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;]array translate OK
+Array
+(
+    [title] => 
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Thai Massage with Herbal Compress is a rejuvenating spa treatment that combines traditional Thai massage techniques with the therapeutic benefits of warm herbal compresses. This therapeutic experience involves skilled therapists using gentle stretches, acupressure, and rhythmic movements to relax the body, while aromatic herbal compresses, filled with a blend of herbs, are applied to soothe and invigorate the muscles. It's a holistic and soothing therapy that promotes relaxation, relieves tension, and enhances overall well-being.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [city] => Hua Hin
+    [address] => 
+    [address_details_translated] => 
+)
+storeId=28
+locale=vi_VN
+
+
+values:
+Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+    [5] => Hua Hin
+    [6] => 
+    [7] => 
+    [8] => 
+    [9] => 
+    [10] => 
+)
+
+
+
+translation=<p>Massage Thái với nén thảo dược là liệu pháp spa trẻ hóa kết hợp các kỹ thuật massage Thái truyền thống với lợi ích trị liệu của nén thảo dược ấm. Trải nghiệm trị liệu này bao gồm các nhà trị liệu lành nghề sử dụng các động tác kéo dãn nhẹ nhàng, bấm huyệt và nhịp nhàng để thư giãn cơ thể, trong khi các loại nén thảo dược thơm chứa đầy hỗn hợp thảo dược được áp dụng để làm dịu và tiếp thêm sinh lực cho cơ bắp. Đó là một liệu pháp toàn diện và nhẹ nhàng nhằm thúc đẩy sự thư giãn, giảm căng thẳng và nâng cao sức khỏe tổng thể.</p>
+translation=[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Hua Hin&quot;,&quot;&quot;,&quot;,&quot;&quot;&quot;&quot;&quot;,&quot;&quot;]
+PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+
+Warning: count(): Parameter must be an array or an object that implements Countable in /home/bitnami/proj/portal/functions/products.php on line 184
+array translate != OK
+Array
+(
+    [subtitle_translated] => 
+    [short_description_translated] => 
+    [description_translated] => <p>Massage Thái với nén thảo dược là liệu pháp spa trẻ hóa kết hợp các kỹ thuật massage Thái truyền thống với lợi ích trị liệu của nén thảo dược ấm. Trải nghiệm trị liệu này bao gồm các nhà trị liệu lành nghề sử dụng các động tác kéo dãn nhẹ nhàng, bấm huyệt và nhịp nhàng để thư giãn cơ thể, trong khi các loại nén thảo dược thơm chứa đầy hỗn hợp thảo dược được áp dụng để làm dịu và tiếp thêm sinh lực cho cơ bắp. Đó là một liệu pháp toàn diện và nhẹ nhàng nhằm thúc đẩy sự thư giãn, giảm căng thẳng và nâng cao sức khỏe tổng thể.</p>
+    [schedule1_translated] => 
+    [schedule2_translated] => 
+    [discount_translated] => 
+    [address_details_translated] => 
+)
