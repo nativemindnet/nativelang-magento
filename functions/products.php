@@ -29,7 +29,8 @@ function translateProducts($force_translated=false, $websiteId=false, $storeIds=
         if($productIds!=false)
             if (!(in_array($productId,$productIds))) continue;
 
-        //        if ($productId<15) continue;
+        if ($productId<73) continue;
+
         $websiteName = $product->getName();
         $websiteDescription = $product->getDescription();
         echo("productId=$productId\n");

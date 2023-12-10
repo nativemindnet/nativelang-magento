@@ -1,16 +1,16 @@
 <?php
 namespace Vendor\Module\Plugin;
 
-class Product
+class ProductPlugin
 {
     public function afterGetDescription(\Magento\Catalog\Model\Product $subject, $result)
     {
         $use_default=$subject->getData('use_default');
-        $translated_description=$subject->getData('translated_description');
+        $description_translated=$subject->getData('description_translated');
         // Проверка атрибута "use_default"
-        if (($use_default == 1)&&($translated_description!="")) {
-            // Возвращаем значение атрибута "translated_description"
-            return $translated_description;
+        if (($use_default == 1)&&($description_translated!="")) {
+            // Возвращаем значение атрибута "description_translated"
+            return $description_translated;
         }
 
         // В противном случае возвращаем описание по умолчанию
