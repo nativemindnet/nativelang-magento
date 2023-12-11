@@ -8,3 +8,7 @@ title тут
 
 
 /bitnami/magento/vendor/magento/module-store/view/frontend/templates/switch
+
+
+URL, GetBaseUrl
+/bitnami/magento/vendor/magento/framework

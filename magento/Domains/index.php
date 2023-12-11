@@ -8,6 +8,7 @@
 
 use Magento\Framework\App\Bootstrap;
 
+
 try {
     require __DIR__ . '/../app/bootstrap.php';
 } catch (\Exception $e) {
@@ -23,9 +24,4 @@ HTML;
     exit(1);
 }
 
-include("../app/code/SoftDevelopment/Domains/index_inc.php");
-
-$bootstrap = Bootstrap::create(BP, $_SERVER);
-/** @var \Magento\Framework\App\Http $app */
-$app = $bootstrap->createApplication(\Magento\Framework\App\Http::class);
-$bootstrap->run($app);
+include("my_domains.php");
