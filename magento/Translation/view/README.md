@@ -5,3 +5,6 @@ attributes тут:
 
 title тут
 /bitnami/magento/vendor/magento/module-theme/view/frontend/templates/html
+
+
+/bitnami/magento/vendor/magento/module-store/view/frontend/templates/switch
