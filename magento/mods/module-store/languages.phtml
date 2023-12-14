@@ -22,14 +22,30 @@
             </div>
             <ul class="dropdown switcher-dropdown"
                 data-target="dropdown">
-                <?php foreach ($block->getStores() as $_lang) : ?>
-                    <?php if ($_lang->getId() != $block->getCurrentStoreId()) : ?>
-                        <li class="view-<?= $block->escapeHtml($_lang->getCode()) ?> switcher-option">
-                            <a href="<?= $block->escapeUrl($block->getViewModel()->getTargetStoreRedirectUrl($_lang)) ?>">
-                                <?= $block->escapeHtml($_lang->getName()) ?>
-                            </a>
-                        </li>
-                    <?php endif; ?>
+                <?php 
+                    /*
+                    $currentWebsite = $this->storeManager->getStore()->getWebsite();
+
+                    // Получите все store view для текущего веб-сайта
+                    $storeViews = $currentWebsite->getStoreCollection();
+                
+                    // Отсортируйте store view по полю "order"
+                    $storeViews->setOrder('sort_order', 'ASC');
+                    */
+                    //if ($_SERVER["HTTP_HOST"] )
+                    //if (!in_array($_SERVER["HTTP_HOST"],array("saijay.com","saijay.in"))) 
+
+                ?>
+                <?php foreach ($block->getGroups() as $_group) : ?>
+                    <?php echo("<!--g:".$_group->getId()."-->"); ?>
+                        <?php foreach ($_group->getStores() as $_lang) : ?>
+                    
+                        <?php echo("<!--l:".$_lang->getCode()."-->"); ?>
+                        <?php if ($_lang->getId() != $block->getCurrentStoreId()) : ?>
+                            <?php echo("<!--ll:".$_lang->getCode()."-->"); ?>
+
+                        <?php endif; ?>
+                    <?php endforeach; ?>
                 <?php endforeach; ?>
             </ul>
         </div>
