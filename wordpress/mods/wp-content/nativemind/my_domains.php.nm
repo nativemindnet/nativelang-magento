@@ -1,0 +1,10 @@
+<?php
+// Configure your additional domains here. Some examples:
+cybo_add_extra_domain( 'nativemind.net', 1 );
+cybo_add_extra_domain( 'en.nativemind.net', 1 );
+cybo_add_extra_domain( 'ru.nativemind.net', 1 );
+cybo_add_extra_domain( 'hi.nativemind.net', 1 );
+cybo_add_extra_domain( 'th.nativemind.net', 1 );
+cybo_add_extra_domain( 'cn.nativemind.net', 1 );
+
+}
