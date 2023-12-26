@@ -18,7 +18,7 @@ function translateTextGoogle_nocache($text, $targetLanguage) {
     //print_r($response);
 
     $res=$response['data']['translations'][0]['translatedText'];
-    echo("translation=$res\n");
+    //echo("translation=$res\n");
     return $res;
 }
 
