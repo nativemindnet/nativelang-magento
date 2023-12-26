@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 //include_once __DIR__ . 'include/translations.php';
 
 require "i18n.php";
-require "translateTextGoogle.php";
+require "include/translateTextGoogle.php";
 
 class NativeMind {
     public function __construct() {

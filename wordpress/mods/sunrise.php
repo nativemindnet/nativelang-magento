@@ -39,8 +39,9 @@ function cybo_add_extra_domain( $domain, $path, $id ) {
     echo("mask_full:$mask_full\n");
     echo("current_blog->domain:$current_blog->domain\n");
     echo("current_blog->path:$current_blog->path\n");
-//    die("DIE");
+    die("DIE");
 */
+
     $domain_replace_fn = function( $url ) use ( $mask_full, $origin_domain ) {
         return str_ireplace( $origin_domain, $mask_full, $url );
     };

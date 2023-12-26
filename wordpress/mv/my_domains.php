@@ -1,0 +1,1 @@
+/home/anton/proj/portal/wordpress/mods/nativemind.net/my_domains.php
