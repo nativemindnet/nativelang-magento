@@ -1,10 +1,10 @@
-# 🌐 nativemind_magento
+# 🌐 nativelang_magento
 
-Welcome to `nativemind_magento`! This module enhances your Magento store with advanced translation capabilities. 🚀
+Welcome to `nativelang_magento`! This module enhances your Magento store with advanced translation capabilities. 🚀
 
 ## Prerequisites
 
-Before proceeding with the installation of `nativemind_magento`, ensure you have:
+Before proceeding with the installation of `nativelang_magento`, ensure you have:
 
 1. **Magento 2 Installed** 🛠️
 
@@ -14,7 +14,7 @@ Before proceeding with the installation of `nativemind_magento`, ensure you have
 
 1. **Download the Module** 📦
    
-   Download `nativemind_magento` to your local machine.
+   Download `nativelang_magento` to your local machine.
 
 2. **Upload to Magento** 📤
 
@@ -22,9 +22,9 @@ Before proceeding with the installation of `nativemind_magento`, ensure you have
 
 3. **Enable the Module** 🌐
 
-   Run the following commands from your Magento root directory to enable `nativemind_magento`:
+   Run the following commands from your Magento root directory to enable `nativelang_magento`:
    - `php bin/magento setup:upgrade`
-   - `php bin/magento module:enable Nativemind_NativemindMagento`
+   - `php bin/magento module:enable NativeMind_NativeLangMagento`
    - `php bin/magento setup:di:compile`
    - `php bin/magento cache:flush`
 
@@ -32,7 +32,7 @@ Before proceeding with the installation of `nativemind_magento`, ensure you have
 
 1. **Configure the Module** ✅
 
-   After installation, log in to your Magento Admin, navigate to `Stores` > `Configuration` > `NATIVEMIND` > `Nativemind Magento Settings`, and configure the module as needed.
+   After installation, log in to your Magento Admin, navigate to `Stores` > `Configuration` > `NATIVELANG` > `NativeLang Magento Settings`, and configure the module as needed.
 
 Your store is now ready to embrace multilingual content! 🌍
 ---
